@@ -16,7 +16,7 @@ public class test02 {
 		System.out.println("Variable C: " + c);
 		System.out.println(n + " + " +  a + " = " + suma);
 		System.out.println(a + " - " + n + " = " + resta);
-		System.out.println("Valor númerico del caracter c = "+ Integer.valueOf(c));
+		System.out.println("Valor númerico del caracter c = "+ (int)c);
 		
 	}
 	
